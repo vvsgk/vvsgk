@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vadlavalliganesh
+- 👀 I’m interested in nodJS
+- 🌱 I’m currently learning python and BDMS
+- 📫 How to reach me @vadlavalli.ganesh
