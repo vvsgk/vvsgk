@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vadlavalliganesh
-- 👀 I’m interested in nodJS
+- 👋 Hi, I’m @vvsgk
+- 👀 I’m interested in nextJS
 - 🌱 I’m currently learning python and BDMS
 - 📫 How to reach me @vadlavalli.ganesh
